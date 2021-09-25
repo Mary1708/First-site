@@ -1,0 +1,25 @@
+body{
+	background-color: #FCF0CF
+}
+h1 {
+	text-align: center
+}
+img{
+	border:3px solid #FFDCBE;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+p {
+	text-align: justify;
+	text-indent: 20px;
+	color: #252525;
+}
+ul{
+	background-color:#FFDCBE;
+	list-style: none;
+}
+footer{
+	background-color: #FFDCBE;
+}
