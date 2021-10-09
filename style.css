@@ -11,6 +11,10 @@ h1 {
 img{
 	border:3px solid #FFDCBE;
 }
+a {
+	text-decoration: none;
+	color: black;
+}
 p {
 	text-align: justify;
 	text-indent: 20px;
